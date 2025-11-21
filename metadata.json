@@ -1,0 +1,5 @@
+{
+  "name": "Finance Dashboard Replica",
+  "description": "A high-fidelity replica of a finance dashboard featuring overview, expense details, and splitwise-style expense tracking.",
+  "requestFramePermissions": []
+}
